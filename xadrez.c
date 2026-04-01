@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int main() {
+int main() { 
 
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
     const int MOV_BISPO = 5;
